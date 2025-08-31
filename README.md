@@ -91,7 +91,8 @@ pip install -r requirements.txt
 ### 1. Running the Script
 ```bash
 # Example main entry (rename to your script name)
-python pick_and_place_operation.py
+pick_and_pick_and_place_operation_for_final_project.py
+
 ```
 
 When launched, you can present a simple menu like:
